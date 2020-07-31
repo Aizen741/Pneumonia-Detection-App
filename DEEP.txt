@@ -1,0 +1,81 @@
+deep learning neural network
+
+CNN
+
+it enable to clasify and analyse data
+it is not one process it is a complex network interconnected in layers
+
+each layer cnn can identify abstract or higher features
+
+when CNN identify such feature it apply the filter
+
+it can be seen as local structures
+ .. it can be textures ,curves ,edges etc
+what the filters are doing are constituting little miniature version
+
+each of these building blocks
+
+
+
+the way the CNN looks for these building blocks is the ' C' 
+which stands for convolution
+
+so how this works?
+so imagine u have one image and then u have stencil and u
+pass that stencil over that image till u find a portion of image that
+is similar to the stencil
+
+and the process of doing this i mean passing the stencil over the
+image is said to be convolution
+
+feature map : how well elements in the image align with the filter
+for example a text :
+CNN make a feature map for ebery filter and there will be a feature map
+for every letter
+
+these feature map will become input  second layer:
+the cnn will be spacially aligned and stack all those map 
+from previous layer
+
+then the seconf layer will look for the total word example 
+adjacent to one another : eg ADA love
+
+the output of the secnd  layer will be the feature map for 
+the squence of these three word
+
+In third layer the CNN will stack and align the feature maps from above
+and try to find word together eg : "ADA Love"
+
+
+if we are looking for suppose big paragraph CNN will have more layers
+
+
+
+how does it works on xrays :
+image is made of pixels
+
+imagine pixels as the drawing made of dots. the more the dots the
+more clear the image will be
+
+
+first layer filter on one pixels:
+ texture
+ Contrast
+ Edges
+
+when CNN go up to the hiegharchy the CNN will be come more complex 
+with each layer
+
+
+
+
+Training and TEsting
+
+
+
+
+
+
+
+
+
