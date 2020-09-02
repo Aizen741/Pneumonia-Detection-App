@@ -26,8 +26,11 @@ Link :https://arxiv.org/pdf/2004.00038.pdf
 
 5.2020:(Diagnostics)  Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning
 
+Link : https://www.mdpi.com/2075-4418/10/6/417
 
 6 : 2020:(Applied Sciences) : A Novel Transfer Learning Based Approach for Pneumonia Detection in Chest X-ray Images
+
+Link : https://www.mdpi.com/2076-3417/10/2/559
 
 7: 2018:(association for computing machinery) : Classification of Bacterial and Viral Childhood Pneumonia Using Deep Learning in Chest Radiography
 
