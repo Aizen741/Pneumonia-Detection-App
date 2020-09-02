@@ -1,5 +1,5 @@
 
-<h1> Final year Project <h1>
+<h1> Final year Project </h1>
 
 <b>Pneumonia Detection using Deep Learning</b>
 
