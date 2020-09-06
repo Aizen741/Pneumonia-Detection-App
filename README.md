@@ -1,7 +1,7 @@
 
 <h1> Final year Project </h1>
 
-<b>Pneumonia Detection using Deep Learning</b>
+<h2><b>Pneumonia Detection using Deep Learning</b> <h2>
 
 <b>Features : </b>
 	Machine learning , data analysis , data visualisation
