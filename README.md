@@ -43,5 +43,5 @@ Link : https://www.researchgate.net/profile/Kh_Tohidul_Islam/publication/3400573
 
 <b> <h3> Comparison <h3></b>
 
-![App image](https://raw.githubusercontent.com/Aizen741/Final_year_Project/master/Images/graph.png?token=AJKCCOW2OJKZKZLUSXGTIYK7KUXJM)
+![App image](Images/graph.png)
 
