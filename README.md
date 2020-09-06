@@ -8,8 +8,6 @@
 	
 <b>Research papers</b>
 
-![App image](https://raw.githubusercontent.com/Aizen741/Final_year_Project/master/Images/graph.png?token=AJKCCOW2OJKZKZLUSXGTIYK7KUXJM)
-
 1 . 2017 : (Standford Universtiy): CheXNET : Pneumonia Detection on Chest X-rays with Deep Learning 
 
 Link :  https://arxiv.org/pdf/1711.05225.pdf
@@ -41,4 +39,8 @@ Link : https://dl.acm.org/doi/pdf/10.1145/3195588.3195597?casa_token=id-k7JJpB3g
 8: 2020: (University of Melbourne) : A Deep Transfer Learning Framework for Pneumonia Detection from Chest X-ray Images
 
 Link : https://www.researchgate.net/profile/Kh_Tohidul_Islam/publication/340057397_A_Deep_Transfer_Learning_Framework_for_Pneumonia_Detection_from_Chest_X-ray_Images/links/5e8579fb4585150839b5ac30/A-Deep-Transfer-Learning-Framework-for-Pneumonia-Detection-from-Chest-X-ray-Images.pdf
+
+
+
+![App image](https://raw.githubusercontent.com/Aizen741/Final_year_Project/master/Images/graph.png?token=AJKCCOW2OJKZKZLUSXGTIYK7KUXJM)
 
