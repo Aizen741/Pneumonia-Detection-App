@@ -8,6 +8,8 @@
 	
 <b>Research papers</b>
 
+![App image](https://raw.githubusercontent.com/Aizen741/Final_year_Project/master/Images/graph.png?token=AJKCCOW2OJKZKZLUSXGTIYK7KUXJM)
+
 1 . 2017 : (Standford Universtiy): CheXNET : Pneumonia Detection on Chest X-rays with Deep Learning 
 
 Link :  https://arxiv.org/pdf/1711.05225.pdf
