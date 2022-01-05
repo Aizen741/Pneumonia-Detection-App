@@ -1,10 +1,11 @@
 
-<h1> Final year Project </h1>
+<h1> Bachelors of Engineering: Final year Project </h1>
 
 <h2><b>Pneumonia Detection using Deep Learning</b> </h2>
 <p>Pneumonia is inflammation (swelling) of tissue in one or both lungs. It is a condition which primarily affects the air sacs of lungs called as alveoli. It is usually caused by infection with viruses or bacteria and less commonly other microorganisms, certain drugs. As per UNICEF study in 2010, there were about 3.97 lakhs under 5 children died of pneumonia in India.
 	
 This Project consist of an Ios App integrated with a multi class - classification model which enabels it to detect variance of Pneumonia from the Lungs Xrays.
+	Language Used : Swift & Python 
 </p>
 
 	
