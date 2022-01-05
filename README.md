@@ -6,7 +6,7 @@
 	
 This Project consist of an Ios App integrated with a multi class - classification model which enabels it to detect variance of Pneumonia from the Lungs Xrays.
 	
-	Language Used : Swift & Python 
+	Language Used : Swift & Python , Developing Tools : Jupyter notebook & Xcode
 </p>
 
 	
