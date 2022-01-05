@@ -41,7 +41,7 @@ Link : https://dl.acm.org/doi/pdf/10.1145/3195588.3195597?casa_token=id-k7JJpB3g
 Link : https://www.researchgate.net/profile/Kh_Tohidul_Islam/publication/340057397_A_Deep_Transfer_Learning_Framework_for_Pneumonia_Detection_from_Chest_X-ray_Images/links/5e8579fb4585150839b5ac30/A-Deep-Transfer-Learning-Framework-for-Pneumonia-Detection-from-Chest-X-ray-Images.pdf
 
 
-<b> <h3> Comparison <h3></b>
+<b> <h3> Poster <h3></b>
 
 ![App image](Images/Poster212.pptx.png)
 
