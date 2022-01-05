@@ -12,7 +12,7 @@ This Project consist of an Ios App integrated with a multi class - classificatio
 	
 <b> <h3> Poster <h3></b>
 
-![App image](Images/Poster212.pptx(1).png)
+![App image](Images/Poster212.pptx (1).png)
 
 <b>Research papers we surveyed</b>
 
