@@ -3,6 +3,8 @@
 
 <h2><b>Pneumonia Detection using Deep Learning</b> </h2>
 <p>Pneumonia is inflammation (swelling) of tissue in one or both lungs. It is a condition which primarily affects the air sacs of lungs called as alveoli. It is usually caused by infection with viruses or bacteria and less commonly other microorganisms, certain drugs. As per UNICEF study in 2010, there were about 3.97 lakhs under 5 children died of pneumonia in India.
+	
+	This Project consist of an Ios App integrated with a multi class - classification model which enabels it to detect variance of Pneumonia from the Lungs Xrays.
 </p>
 
 	
@@ -44,7 +46,7 @@ Link : https://dl.acm.org/doi/pdf/10.1145/3195588.3195597?casa_token=id-k7JJpB3g
 
 Link : https://www.researchgate.net/profile/Kh_Tohidul_Islam/publication/340057397_A_Deep_Transfer_Learning_Framework_for_Pneumonia_Detection_from_Chest_X-ray_Images/links/5e8579fb4585150839b5ac30/A-Deep-Transfer-Learning-Framework-for-Pneumonia-Detection-from-Chest-X-ray-Images.pdf
 
-<h1>App Working</h1>
+	<h1><b>App Working</b></h1>
 
 https://user-images.githubusercontent.com/39067962/148197561-44ab4db5-a25e-49f4-ad7d-92288637bb90.mp4
 
