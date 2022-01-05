@@ -44,5 +44,12 @@ Link : https://dl.acm.org/doi/pdf/10.1145/3195588.3195597?casa_token=id-k7JJpB3g
 
 Link : https://www.researchgate.net/profile/Kh_Tohidul_Islam/publication/340057397_A_Deep_Transfer_Learning_Framework_for_Pneumonia_Detection_from_Chest_X-ray_Images/links/5e8579fb4585150839b5ac30/A-Deep-Transfer-Learning-Framework-for-Pneumonia-Detection-from-Chest-X-ray-Images.pdf
 
-<h1>APP Working</h1>
+<h1>App Working</h1>
+
+https://user-images.githubusercontent.com/39067962/148197561-44ab4db5-a25e-49f4-ad7d-92288637bb90.mp4
+
+https://user-images.githubusercontent.com/39067962/148197633-7efb25b5-2f9c-42e0-aca0-14ac80181a3e.mp4
+
+
+
 
